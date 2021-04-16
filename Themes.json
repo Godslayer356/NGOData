@@ -1,5 +1,9 @@
 [
   {
+    "id": "covid-19",
+    "name": "COVID-19"
+  },
+  {
     "id": "animals",
     "name": "Animal Welfare"
   },
@@ -66,10 +70,6 @@
   {
     "id": "lgbtq",
     "name": "LGBTQIA+ Equality"
-  },
-  {
-    "id": "covid-19",
-    "name": "COVID-19"
   },
   {
     "id": "water",
