@@ -1,5 +1,4 @@
-{
-  "themes":[
+[
   {
     "id": "covid-19",
     "name": "COVID-19"
@@ -113,4 +112,4 @@
     "name": "Wildlife Conservation"
   }
 ]
-}
+
