@@ -1,5 +1,6 @@
-[
-      "organizations": {
+{
+      "organizations": [
+      {
         "activeProjects": 1,
         "addressLine1": "SAMADHAN'S HUMAN RESOURCE CENTER Pocket 2, Sector 2,",
         "addressLine2": "Dwarka",
@@ -838,4 +839,5 @@
         "totalProjects": 30,
         "url": "http://www.lifelineenergy.org"
       }
-]
+   ]
+}
